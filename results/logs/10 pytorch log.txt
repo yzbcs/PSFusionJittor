@@ -1,0 +1,37 @@
+2025-06-25 20:08:07,022 - Timer - INFO - 训练轮次: 10 epochs
+2025-06-25 20:08:07,024 - Timer - INFO - 参数数量: 45908840.000000M
+2025-06-25 20:08:07,025 - Timer - INFO - 训练数据量: 1083 个样本
+2025-06-25 20:12:03,093 - Timer - INFO - ep: [1/10], learning rate: 0.000092, time consuming: 233.37s, segmentation loss: 0.6463, fusion loss: 2.8178, vi rec loss: 0.8260, ir rec loss: 0.4821
+2025-06-25 20:12:03,098 - Timer - INFO - grad loss: [0.1503], int loss: [0.0203], corr loss: [1.1116], bi loss: [0.6675], bd loss: [0.1189], segmentation loss: 0.6463, mIou: 0.1084, Acc: 0.8734, Eta: 0:34:56
+
+2025-06-25 20:16:15,795 - Timer - INFO - ep: [2/10], learning rate: 0.000082, time consuming: 252.70s, segmentation loss: 0.6709, fusion loss: 3.1479, vi rec loss: 1.4268, ir rec loss: 0.3416
+2025-06-25 20:16:15,796 - Timer - INFO - grad loss: [0.1667], int loss: [0.0728], corr loss: [0.7531], bi loss: [0.7223], bd loss: [0.1202], segmentation loss: 0.6709, mIou: 0.1160, Acc: 0.8914, Eta: 0:32:22
+
+2025-06-25 20:20:09,086 - Timer - INFO - ep: [3/10], learning rate: 0.000073, time consuming: 233.29s, segmentation loss: 0.4139, fusion loss: 2.2458, vi rec loss: 0.6801, ir rec loss: 0.3471
+2025-06-25 20:20:09,087 - Timer - INFO - grad loss: [0.1260], int loss: [0.0161], corr loss: [0.8253], bi loss: [0.5799], bd loss: [0.0766], segmentation loss: 0.4139, mIou: 0.1147, Acc: 0.8919, Eta: 0:27:57
+
+2025-06-25 20:24:13,847 - Timer - INFO - ep: [4/10], learning rate: 0.000064, time consuming: 244.76s, segmentation loss: 0.5554, fusion loss: 3.2268, vi rec loss: 1.1630, ir rec loss: 0.3171
+2025-06-25 20:24:13,849 - Timer - INFO - grad loss: [0.2010], int loss: [0.0395], corr loss: [0.8216], bi loss: [0.5703], bd loss: [0.0916], segmentation loss: 0.5554, mIou: 0.1216, Acc: 0.8938, Eta: 0:24:05
+
+2025-06-25 20:25:50,950 - Timer - INFO - test mIoU: 0.1522, best mIoU:0.0000
+2025-06-25 20:30:31,709 - Timer - INFO - ep: [5/10], learning rate: 0.000054, time consuming: 377.86s, segmentation loss: 1.4936, fusion loss: 2.0779, vi rec loss: 0.7529, ir rec loss: 0.2614
+2025-06-25 20:30:31,710 - Timer - INFO - grad loss: [0.1065], int loss: [0.0199], corr loss: [0.8144], bi loss: [0.5212], bd loss: [0.1171], segmentation loss: 1.4936, mIou: 0.1347, Acc: 0.8969, Eta: 0:22:20
+
+2025-06-25 20:34:50,482 - Timer - INFO - ep: [6/10], learning rate: 0.000044, time consuming: 258.77s, segmentation loss: 0.7287, fusion loss: 2.8513, vi rec loss: 1.0447, ir rec loss: 0.2998
+2025-06-25 20:34:50,483 - Timer - INFO - grad loss: [0.1545], int loss: [0.0409], corr loss: [0.8973], bi loss: [0.5626], bd loss: [0.1176], segmentation loss: 0.7287, mIou: 0.1465, Acc: 0.8992, Eta: 0:17:46
+
+2025-06-25 20:36:35,756 - Timer - INFO - test mIoU: 0.1936, best mIoU:0.1522
+2025-06-25 20:41:05,402 - Timer - INFO - ep: [7/10], learning rate: 0.000034, time consuming: 374.92s, segmentation loss: 3.0165, fusion loss: 2.7440, vi rec loss: 0.5648, ir rec loss: 0.3836
+2025-06-25 20:41:05,402 - Timer - INFO - grad loss: [0.1729], int loss: [0.0203], corr loss: [0.8115], bi loss: [2.5519], bd loss: [0.1901], segmentation loss: 3.0165, mIou: 0.1451, Acc: 0.9039, Eta: 0:14:05
+
+2025-06-25 20:45:04,123 - Timer - INFO - ep: [8/10], learning rate: 0.000024, time consuming: 238.72s, segmentation loss: 0.9285, fusion loss: 1.9028, vi rec loss: 0.2783, ir rec loss: 0.2192
+2025-06-25 20:45:04,124 - Timer - INFO - grad loss: [0.1144], int loss: [0.0105], corr loss: [0.6537], bi loss: [0.5228], bd loss: [0.0832], segmentation loss: 0.9285, mIou: 0.1576, Acc: 0.9007, Eta: 0:09:12
+
+2025-06-25 20:46:30,132 - Timer - INFO - test mIoU: 0.2056, best mIoU:0.1936
+2025-06-25 20:50:52,544 - Timer - INFO - ep: [9/10], learning rate: 0.000013, time consuming: 348.42s, segmentation loss: 1.1466, fusion loss: 2.1272, vi rec loss: 0.4034, ir rec loss: 0.2832
+2025-06-25 20:50:52,545 - Timer - INFO - grad loss: [0.1196], int loss: [0.0107], corr loss: [0.8235], bi loss: [0.5663], bd loss: [0.1380], segmentation loss: 1.1466, mIou: 0.1615, Acc: 0.9071, Eta: 0:04:44
+
+2025-06-25 20:55:28,816 - Timer - INFO - ep: [10/10], learning rate: 0.000000, time consuming: 276.27s, segmentation loss: 0.5766, fusion loss: 3.7031, vi rec loss: 1.7923, ir rec loss: 0.2342
+2025-06-25 20:55:28,817 - Timer - INFO - grad loss: [0.1549], int loss: [0.1359], corr loss: [0.7957], bi loss: [1.0238], bd loss: [0.1104], segmentation loss: 0.5766, mIou: 0.1704, Acc: 0.9109, Eta: 0:00:00
+
+2025-06-25 20:57:19,854 - Timer - INFO - test mIoU: 0.2248, best mIoU:0.2056

@@ -1,0 +1,311 @@
+2025-06-22 13:25:05,362 - Timer - INFO - 快速训练模式 - 使用完整数据集
+2025-06-22 13:25:05,364 - Timer - INFO - 参数数量: 45908840.000000M
+2025-06-22 13:25:05,364 - Timer - INFO - 训练数据量: 1083 个样本
+2025-06-22 13:29:15,945 - Timer - INFO - ep: [1/100], learning rate: 0.000994, time consuming: 248.75s, segmentation loss: 2.5241, fusion loss: 2.8692, vi rec loss: 0.7231, ir rec loss: 0.3037
+2025-06-22 13:29:15,946 - Timer - INFO - grad loss: [0.1749], int loss: [0.0245], corr loss: [0.8754], bi loss: [3.1643], bd loss: [0.1429], segmentation loss: 2.5241, mIou: 0.1045, Acc: 0.8756, Eta: 6:49:39
+
+2025-06-22 13:33:21,408 - Timer - INFO - ep: [2/100], learning rate: 0.000985, time consuming: 245.46s, segmentation loss: 0.7505, fusion loss: 1.6651, vi rec loss: 0.3596, ir rec loss: 0.1466
+2025-06-22 13:33:21,410 - Timer - INFO - grad loss: [0.0847], int loss: [0.0048], corr loss: [0.7700], bi loss: [0.9671], bd loss: [0.1590], segmentation loss: 0.7505, mIou: 0.1066, Acc: 0.8920, Eta: 6:43:13
+
+2025-06-22 13:37:15,639 - Timer - INFO - ep: [3/100], learning rate: 0.000976, time consuming: 234.23s, segmentation loss: 1.1667, fusion loss: 2.3889, vi rec loss: 0.5338, ir rec loss: 0.2021
+2025-06-22 13:37:15,640 - Timer - INFO - grad loss: [0.1457], int loss: [0.0154], corr loss: [0.7784], bi loss: [0.7706], bd loss: [0.1144], segmentation loss: 1.1667, mIou: 0.1099, Acc: 0.8954, Eta: 6:32:17
+
+2025-06-22 13:41:07,595 - Timer - INFO - ep: [4/100], learning rate: 0.000967, time consuming: 231.95s, segmentation loss: 0.5086, fusion loss: 2.3317, vi rec loss: 0.3666, ir rec loss: 0.3382
+2025-06-22 13:41:07,596 - Timer - INFO - grad loss: [0.1461], int loss: [0.0153], corr loss: [0.7181], bi loss: [0.7416], bd loss: [0.0834], segmentation loss: 0.5086, mIou: 0.1106, Acc: 0.8994, Eta: 6:23:58
+
+2025-06-22 13:45:06,458 - Timer - INFO - ep: [5/100], learning rate: 0.000958, time consuming: 238.86s, segmentation loss: 0.7035, fusion loss: 2.1661, vi rec loss: 0.5718, ir rec loss: 0.2150
+2025-06-22 13:45:06,459 - Timer - INFO - grad loss: [0.1237], int loss: [0.0186], corr loss: [0.7431], bi loss: [0.7358], bd loss: [0.1044], segmentation loss: 0.7035, mIou: 0.1104, Acc: 0.8946, Eta: 6:19:37
+
+2025-06-22 13:49:08,005 - Timer - INFO - ep: [6/100], learning rate: 0.000949, time consuming: 241.55s, segmentation loss: 1.5993, fusion loss: 2.4446, vi rec loss: 0.3964, ir rec loss: 0.1472
+2025-06-22 13:49:08,006 - Timer - INFO - grad loss: [0.1541], int loss: [0.0156], corr loss: [0.7471], bi loss: [1.5775], bd loss: [0.2616], segmentation loss: 1.5993, mIou: 0.1139, Acc: 0.8914, Eta: 6:16:05
+
+2025-06-22 13:52:51,978 - Timer - INFO - ep: [7/100], learning rate: 0.000940, time consuming: 223.97s, segmentation loss: 0.4511, fusion loss: 2.8021, vi rec loss: 0.6614, ir rec loss: 0.3966
+2025-06-22 13:52:51,979 - Timer - INFO - grad loss: [0.1863], int loss: [0.0242], corr loss: [0.6965], bi loss: [0.7027], bd loss: [0.1059], segmentation loss: 0.4511, mIou: 0.1135, Acc: 0.8921, Eta: 6:08:31
+
+2025-06-22 13:56:29,827 - Timer - INFO - ep: [8/100], learning rate: 0.000931, time consuming: 217.85s, segmentation loss: 0.6130, fusion loss: 2.1878, vi rec loss: 0.3880, ir rec loss: 0.1602
+2025-06-22 13:56:29,827 - Timer - INFO - grad loss: [0.1398], int loss: [0.0122], corr loss: [0.6674], bi loss: [0.6546], bd loss: [0.0611], segmentation loss: 0.6130, mIou: 0.1166, Acc: 0.8983, Eta: 6:00:44
+
+2025-06-22 14:00:04,534 - Timer - INFO - ep: [9/100], learning rate: 0.000922, time consuming: 214.71s, segmentation loss: 0.9505, fusion loss: 2.3105, vi rec loss: 0.5716, ir rec loss: 0.1773
+2025-06-22 14:00:04,535 - Timer - INFO - grad loss: [0.1270], int loss: [0.0272], corr loss: [0.7682], bi loss: [0.8893], bd loss: [0.2796], segmentation loss: 0.9505, mIou: 0.1218, Acc: 0.8938, Eta: 5:53:21
+
+2025-06-22 14:03:35,010 - Timer - INFO - ep: [10/100], learning rate: 0.000913, time consuming: 210.47s, segmentation loss: 1.2163, fusion loss: 2.0517, vi rec loss: 0.5511, ir rec loss: 0.2202
+2025-06-22 14:03:35,011 - Timer - INFO - grad loss: [0.1260], int loss: [0.0117], corr loss: [0.6748], bi loss: [0.7193], bd loss: [0.0801], segmentation loss: 1.2163, mIou: 0.1181, Acc: 0.8926, Eta: 5:46:06
+
+2025-06-22 14:07:30,964 - Timer - INFO - ep: [11/100], learning rate: 0.000903, time consuming: 235.95s, segmentation loss: 0.9934, fusion loss: 2.1318, vi rec loss: 0.4968, ir rec loss: 0.1718
+2025-06-22 14:07:30,964 - Timer - INFO - grad loss: [0.1207], int loss: [0.0145], corr loss: [0.7793], bi loss: [0.4946], bd loss: [0.1196], segmentation loss: 0.9934, mIou: 0.1263, Acc: 0.8932, Eta: 5:42:57
+
+2025-06-22 14:11:20,348 - Timer - INFO - ep: [12/100], learning rate: 0.000894, time consuming: 229.38s, segmentation loss: 2.0189, fusion loss: 2.3789, vi rec loss: 0.3881, ir rec loss: 0.1463
+2025-06-22 14:11:20,349 - Timer - INFO - grad loss: [0.1367], int loss: [0.0226], corr loss: [0.7854], bi loss: [1.8369], bd loss: [0.1165], segmentation loss: 2.0189, mIou: 0.1251, Acc: 0.9021, Eta: 5:38:52
+
+2025-06-22 14:15:09,540 - Timer - INFO - ep: [13/100], learning rate: 0.000885, time consuming: 229.19s, segmentation loss: 1.4974, fusion loss: 1.8633, vi rec loss: 0.2240, ir rec loss: 0.2363
+2025-06-22 14:15:09,541 - Timer - INFO - grad loss: [0.1052], int loss: [0.0068], corr loss: [0.7440], bi loss: [0.6013], bd loss: [0.1529], segmentation loss: 1.4974, mIou: 0.1312, Acc: 0.8975, Eta: 5:34:49
+
+2025-06-22 14:19:02,242 - Timer - INFO - ep: [14/100], learning rate: 0.000876, time consuming: 232.70s, segmentation loss: 0.5276, fusion loss: 3.1316, vi rec loss: 1.1217, ir rec loss: 0.1847
+2025-06-22 14:19:02,243 - Timer - INFO - grad loss: [0.1684], int loss: [0.0612], corr loss: [0.8358], bi loss: [0.5565], bd loss: [0.1125], segmentation loss: 0.5276, mIou: 0.1349, Acc: 0.8979, Eta: 5:31:09
+
+2025-06-22 14:22:51,748 - Timer - INFO - ep: [15/100], learning rate: 0.000867, time consuming: 229.50s, segmentation loss: 0.4313, fusion loss: 2.1028, vi rec loss: 0.3852, ir rec loss: 0.1268
+2025-06-22 14:22:51,749 - Timer - INFO - grad loss: [0.1111], int loss: [0.0114], corr loss: [0.8769], bi loss: [0.4835], bd loss: [0.0329], segmentation loss: 0.4313, mIou: 0.1305, Acc: 0.8999, Eta: 5:27:09
+
+2025-06-22 14:27:04,276 - Timer - INFO - ep: [16/100], learning rate: 0.000858, time consuming: 252.52s, segmentation loss: 0.8222, fusion loss: 2.8425, vi rec loss: 0.4330, ir rec loss: 0.3403
+2025-06-22 14:27:04,277 - Timer - INFO - grad loss: [0.1626], int loss: [0.0269], corr loss: [0.9470], bi loss: [0.6760], bd loss: [0.1269], segmentation loss: 0.8222, mIou: 0.1432, Acc: 0.9015, Eta: 5:25:11
+
+2025-06-22 14:31:31,718 - Timer - INFO - ep: [17/100], learning rate: 0.000848, time consuming: 267.44s, segmentation loss: 0.9642, fusion loss: 1.8428, vi rec loss: 0.1288, ir rec loss: 0.1918
+2025-06-22 14:31:31,720 - Timer - INFO - grad loss: [0.1075], int loss: [0.0066], corr loss: [0.7020], bi loss: [0.5024], bd loss: [0.0745], segmentation loss: 0.9642, mIou: 0.1350, Acc: 0.9008, Eta: 5:24:11
+
+2025-06-22 14:36:04,749 - Timer - INFO - ep: [18/100], learning rate: 0.000839, time consuming: 273.03s, segmentation loss: 0.6616, fusion loss: 1.8424, vi rec loss: 0.2683, ir rec loss: 0.1823
+2025-06-22 14:36:04,750 - Timer - INFO - grad loss: [0.0919], int loss: [0.0095], corr loss: [0.8286], bi loss: [0.5317], bd loss: [0.0801], segmentation loss: 0.6616, mIou: 0.1440, Acc: 0.9053, Eta: 5:23:13
+
+2025-06-22 14:40:33,864 - Timer - INFO - ep: [19/100], learning rate: 0.000830, time consuming: 269.11s, segmentation loss: 1.3789, fusion loss: 2.2637, vi rec loss: 0.3267, ir rec loss: 0.2499
+2025-06-22 14:40:33,864 - Timer - INFO - grad loss: [0.1434], int loss: [0.0187], corr loss: [0.6430], bi loss: [0.5278], bd loss: [0.0810], segmentation loss: 1.3789, mIou: 0.1475, Acc: 0.9035, Eta: 5:21:35
+
+2025-06-22 14:45:02,032 - Timer - INFO - ep: [20/100], learning rate: 0.000821, time consuming: 268.17s, segmentation loss: 0.4070, fusion loss: 2.6430, vi rec loss: 0.3923, ir rec loss: 0.2044
+2025-06-22 14:45:02,033 - Timer - INFO - grad loss: [0.1551], int loss: [0.0286], corr loss: [0.8061], bi loss: [0.5430], bd loss: [0.0916], segmentation loss: 0.4070, mIou: 0.1493, Acc: 0.9047, Eta: 5:19:37
+
+2025-06-22 14:50:33,622 - Timer - INFO - ep: [21/100], learning rate: 0.000812, time consuming: 331.59s, segmentation loss: 1.4440, fusion loss: 2.5391, vi rec loss: 0.5097, ir rec loss: 0.1590
+2025-06-22 14:50:33,623 - Timer - INFO - grad loss: [0.1382], int loss: [0.0255], corr loss: [0.9023], bi loss: [0.5071], bd loss: [0.1216], segmentation loss: 1.4440, mIou: 0.1526, Acc: 0.9027, Eta: 5:21:22
+
+2025-06-22 14:55:13,559 - Timer - INFO - ep: [22/100], learning rate: 0.000802, time consuming: 279.93s, segmentation loss: 1.0884, fusion loss: 2.2367, vi rec loss: 0.6274, ir rec loss: 0.2056
+2025-06-22 14:55:13,560 - Timer - INFO - grad loss: [0.1346], int loss: [0.0249], corr loss: [0.6420], bi loss: [0.5526], bd loss: [0.1477], segmentation loss: 1.0884, mIou: 0.1487, Acc: 0.9058, Eta: 5:19:25
+
+2025-06-22 14:59:03,667 - Timer - INFO - ep: [23/100], learning rate: 0.000793, time consuming: 230.11s, segmentation loss: 0.9777, fusion loss: 2.6579, vi rec loss: 0.3965, ir rec loss: 0.2457
+2025-06-22 14:59:03,667 - Timer - INFO - grad loss: [0.1595], int loss: [0.0288], corr loss: [0.7752], bi loss: [0.3691], bd loss: [0.0932], segmentation loss: 0.9777, mIou: 0.1520, Acc: 0.9056, Eta: 5:14:27
+
+2025-06-22 15:02:35,176 - Timer - INFO - ep: [24/100], learning rate: 0.000784, time consuming: 211.51s, segmentation loss: 0.9824, fusion loss: 2.4678, vi rec loss: 0.2807, ir rec loss: 0.2785
+2025-06-22 15:02:35,177 - Timer - INFO - grad loss: [0.1443], int loss: [0.0168], corr loss: [0.8569], bi loss: [0.6224], bd loss: [0.1211], segmentation loss: 0.9824, mIou: 0.1588, Acc: 0.9049, Eta: 5:08:36
+
+2025-06-22 15:06:07,737 - Timer - INFO - ep: [25/100], learning rate: 0.000774, time consuming: 212.56s, segmentation loss: 0.7018, fusion loss: 1.5328, vi rec loss: 0.2421, ir rec loss: 0.1786
+2025-06-22 15:06:07,738 - Timer - INFO - grad loss: [0.0696], int loss: [0.0081], corr loss: [0.7558], bi loss: [0.4515], bd loss: [0.1161], segmentation loss: 0.7018, mIou: 0.1567, Acc: 0.9078, Eta: 5:02:59
+
+2025-06-22 15:09:32,434 - Timer - INFO - ep: [26/100], learning rate: 0.000765, time consuming: 204.70s, segmentation loss: 0.9646, fusion loss: 1.8234, vi rec loss: 0.3038, ir rec loss: 0.1644
+2025-06-22 15:09:32,437 - Timer - INFO - grad loss: [0.1004], int loss: [0.0205], corr loss: [0.6137], bi loss: [0.5320], bd loss: [0.1303], segmentation loss: 0.9646, mIou: 0.1589, Acc: 0.9081, Eta: 4:57:10
+
+2025-06-22 15:12:58,659 - Timer - INFO - ep: [27/100], learning rate: 0.000756, time consuming: 206.22s, segmentation loss: 0.5079, fusion loss: 1.8775, vi rec loss: 0.2929, ir rec loss: 0.1895
+2025-06-22 15:12:58,660 - Timer - INFO - grad loss: [0.1043], int loss: [0.0160], corr loss: [0.6741], bi loss: [0.4739], bd loss: [0.0658], segmentation loss: 0.5079, mIou: 0.1671, Acc: 0.9086, Eta: 4:51:35
+
+2025-06-22 15:16:25,987 - Timer - INFO - ep: [28/100], learning rate: 0.000747, time consuming: 207.33s, segmentation loss: 0.5352, fusion loss: 2.0187, vi rec loss: 0.2664, ir rec loss: 0.6328
+2025-06-22 15:16:25,988 - Timer - INFO - grad loss: [0.1243], int loss: [0.0121], corr loss: [0.6544], bi loss: [0.3787], bd loss: [0.0764], segmentation loss: 0.5352, mIou: 0.1622, Acc: 0.9055, Eta: 4:46:12
+
+2025-06-22 15:19:56,524 - Timer - INFO - ep: [29/100], learning rate: 0.000737, time consuming: 210.54s, segmentation loss: 2.1391, fusion loss: 1.9319, vi rec loss: 0.1433, ir rec loss: 0.3411
+2025-06-22 15:19:56,524 - Timer - INFO - grad loss: [0.1109], int loss: [0.0086], corr loss: [0.7370], bi loss: [0.8052], bd loss: [0.2287], segmentation loss: 2.1391, mIou: 0.1693, Acc: 0.9108, Eta: 4:41:05
+
+2025-06-22 15:23:27,509 - Timer - INFO - ep: [30/100], learning rate: 0.000728, time consuming: 210.99s, segmentation loss: 0.7794, fusion loss: 2.1856, vi rec loss: 0.2219, ir rec loss: 0.2443
+2025-06-22 15:23:27,510 - Timer - INFO - grad loss: [0.1192], int loss: [0.0118], corr loss: [0.8758], bi loss: [0.3580], bd loss: [0.0762], segmentation loss: 0.7794, mIou: 0.1681, Acc: 0.9090, Eta: 4:36:05
+
+2025-06-22 15:24:51,435 - Timer - INFO - test mIoU: 0.1911, best mIoU:0.0000
+2025-06-22 15:28:38,030 - Timer - INFO - ep: [31/100], learning rate: 0.000718, time consuming: 310.52s, segmentation loss: 0.7910, fusion loss: 1.6007, vi rec loss: 0.3105, ir rec loss: 0.1653
+2025-06-22 15:28:38,031 - Timer - INFO - grad loss: [0.0859], int loss: [0.0072], corr loss: [0.6699], bi loss: [0.5854], bd loss: [0.1169], segmentation loss: 0.7910, mIou: 0.1697, Acc: 0.9092, Eta: 4:34:53
+
+2025-06-22 15:32:29,452 - Timer - INFO - ep: [32/100], learning rate: 0.000709, time consuming: 231.42s, segmentation loss: 2.3263, fusion loss: 2.0097, vi rec loss: 0.3901, ir rec loss: 0.1278
+2025-06-22 15:32:29,453 - Timer - INFO - grad loss: [0.1199], int loss: [0.0172], corr loss: [0.6382], bi loss: [1.7522], bd loss: [0.1497], segmentation loss: 2.3263, mIou: 0.1775, Acc: 0.9142, Eta: 4:30:38
+
+2025-06-22 15:36:23,282 - Timer - INFO - ep: [33/100], learning rate: 0.000700, time consuming: 233.83s, segmentation loss: 1.6687, fusion loss: 2.3793, vi rec loss: 0.3763, ir rec loss: 0.1727
+2025-06-22 15:36:23,282 - Timer - INFO - grad loss: [0.1376], int loss: [0.0143], corr loss: [0.8604], bi loss: [0.6213], bd loss: [0.1256], segmentation loss: 1.6687, mIou: 0.1705, Acc: 0.9091, Eta: 4:26:29
+
+2025-06-22 15:40:05,712 - Timer - INFO - ep: [34/100], learning rate: 0.000690, time consuming: 222.43s, segmentation loss: 1.2593, fusion loss: 1.6262, vi rec loss: 0.1344, ir rec loss: 0.1373
+2025-06-22 15:40:05,712 - Timer - INFO - grad loss: [0.0878], int loss: [0.0029], corr loss: [0.7197], bi loss: [0.8882], bd loss: [0.1772], segmentation loss: 1.2593, mIou: 0.1714, Acc: 0.9085, Eta: 4:21:59
+
+2025-06-22 15:43:43,569 - Timer - INFO - ep: [35/100], learning rate: 0.000681, time consuming: 217.86s, segmentation loss: 1.4052, fusion loss: 2.1951, vi rec loss: 0.4066, ir rec loss: 0.3121
+2025-06-22 15:43:43,571 - Timer - INFO - grad loss: [0.1330], int loss: [0.0166], corr loss: [0.6990], bi loss: [0.5275], bd loss: [0.1601], segmentation loss: 1.4052, mIou: 0.1761, Acc: 0.9174, Eta: 4:17:23
+
+2025-06-22 15:47:41,103 - Timer - INFO - ep: [36/100], learning rate: 0.000671, time consuming: 237.53s, segmentation loss: 0.6521, fusion loss: 1.9678, vi rec loss: 0.3034, ir rec loss: 0.1339
+2025-06-22 15:47:41,104 - Timer - INFO - grad loss: [0.1134], int loss: [0.0212], corr loss: [0.6212], bi loss: [0.7025], bd loss: [0.1705], segmentation loss: 0.6521, mIou: 0.1712, Acc: 0.9177, Eta: 4:13:25
+
+2025-06-22 15:51:43,505 - Timer - INFO - ep: [37/100], learning rate: 0.000662, time consuming: 242.40s, segmentation loss: 0.5324, fusion loss: 2.1584, vi rec loss: 0.2453, ir rec loss: 0.2587
+2025-06-22 15:51:43,505 - Timer - INFO - grad loss: [0.1272], int loss: [0.0173], corr loss: [0.7132], bi loss: [0.4403], bd loss: [0.1173], segmentation loss: 0.5324, mIou: 0.1841, Acc: 0.9158, Eta: 4:09:36
+
+2025-06-22 15:55:47,563 - Timer - INFO - ep: [38/100], learning rate: 0.000653, time consuming: 244.06s, segmentation loss: 1.3112, fusion loss: 2.3436, vi rec loss: 0.5544, ir rec loss: 0.1412
+2025-06-22 15:55:47,564 - Timer - INFO - grad loss: [0.1208], int loss: [0.0344], corr loss: [0.7918], bi loss: [0.5844], bd loss: [0.1423], segmentation loss: 1.3112, mIou: 0.1819, Acc: 0.9171, Eta: 4:05:48
+
+2025-06-22 16:00:22,351 - Timer - INFO - ep: [39/100], learning rate: 0.000643, time consuming: 274.79s, segmentation loss: 0.7431, fusion loss: 1.7438, vi rec loss: 0.2380, ir rec loss: 0.1605
+2025-06-22 16:00:22,353 - Timer - INFO - grad loss: [0.0934], int loss: [0.0082], corr loss: [0.7278], bi loss: [0.3232], bd loss: [0.0968], segmentation loss: 0.7431, mIou: 0.1853, Acc: 0.9169, Eta: 4:02:48
+
+2025-06-22 16:06:17,296 - Timer - INFO - ep: [40/100], learning rate: 0.000634, time consuming: 354.94s, segmentation loss: 0.7534, fusion loss: 1.6626, vi rec loss: 0.2041, ir rec loss: 0.1229
+2025-06-22 16:06:17,297 - Timer - INFO - grad loss: [0.0863], int loss: [0.0071], corr loss: [0.7281], bi loss: [1.1548], bd loss: [0.1850], segmentation loss: 0.7534, mIou: 0.1865, Acc: 0.9147, Eta: 4:01:44
+
+2025-06-22 16:08:38,368 - Timer - INFO - test mIoU: 0.2138, best mIoU:0.1911
+2025-06-22 16:14:24,395 - Timer - INFO - ep: [41/100], learning rate: 0.000624, time consuming: 487.10s, segmentation loss: 1.0249, fusion loss: 2.0067, vi rec loss: 0.2106, ir rec loss: 0.1954
+2025-06-22 16:14:24,396 - Timer - INFO - grad loss: [0.1166], int loss: [0.0091], corr loss: [0.7496], bi loss: [0.5257], bd loss: [0.1099], segmentation loss: 1.0249, mIou: 0.1863, Acc: 0.9140, Eta: 4:03:35
+
+2025-06-22 16:20:19,547 - Timer - INFO - ep: [42/100], learning rate: 0.000615, time consuming: 355.15s, segmentation loss: 0.5727, fusion loss: 2.4850, vi rec loss: 0.3373, ir rec loss: 0.1295
+2025-06-22 16:20:19,547 - Timer - INFO - grad loss: [0.1303], int loss: [0.0149], corr loss: [1.0325], bi loss: [0.6532], bd loss: [0.1407], segmentation loss: 0.5727, mIou: 0.1792, Acc: 0.9145, Eta: 4:01:55
+
+2025-06-22 16:27:31,580 - Timer - INFO - ep: [43/100], learning rate: 0.000605, time consuming: 432.03s, segmentation loss: 1.0206, fusion loss: 2.1508, vi rec loss: 0.2981, ir rec loss: 0.1265
+2025-06-22 16:27:31,580 - Timer - INFO - grad loss: [0.1104], int loss: [0.0205], corr loss: [0.8413], bi loss: [0.6783], bd loss: [0.1046], segmentation loss: 1.0206, mIou: 0.1898, Acc: 0.9196, Eta: 4:01:46
+
+2025-06-22 16:33:12,602 - Timer - INFO - ep: [44/100], learning rate: 0.000595, time consuming: 341.02s, segmentation loss: 0.4699, fusion loss: 2.1261, vi rec loss: 0.5019, ir rec loss: 0.1776
+2025-06-22 16:33:12,604 - Timer - INFO - grad loss: [0.0781], int loss: [0.0207], corr loss: [1.1379], bi loss: [0.3107], bd loss: [0.0485], segmentation loss: 0.4699, mIou: 0.1880, Acc: 0.9135, Eta: 3:59:22
+
+2025-06-22 16:40:47,118 - Timer - INFO - ep: [45/100], learning rate: 0.000586, time consuming: 454.51s, segmentation loss: 0.4503, fusion loss: 1.4631, vi rec loss: 0.0886, ir rec loss: 0.1553
+2025-06-22 16:40:47,119 - Timer - INFO - grad loss: [0.0721], int loss: [0.0040], corr loss: [0.7018], bi loss: [0.4975], bd loss: [0.0994], segmentation loss: 0.4503, mIou: 0.1888, Acc: 0.9181, Eta: 3:59:07
+
+2025-06-22 16:46:35,562 - Timer - INFO - ep: [46/100], learning rate: 0.000576, time consuming: 348.44s, segmentation loss: 0.9150, fusion loss: 1.8294, vi rec loss: 0.3780, ir rec loss: 0.1871
+2025-06-22 16:46:35,562 - Timer - INFO - grad loss: [0.1044], int loss: [0.0177], corr loss: [0.6086], bi loss: [0.7269], bd loss: [0.1727], segmentation loss: 0.9150, mIou: 0.2032, Acc: 0.9208, Eta: 3:56:29
+
+2025-06-22 16:52:32,896 - Timer - INFO - ep: [47/100], learning rate: 0.000567, time consuming: 357.33s, segmentation loss: 0.4152, fusion loss: 1.8427, vi rec loss: 0.2133, ir rec loss: 0.1163
+2025-06-22 16:52:32,896 - Timer - INFO - grad loss: [0.0914], int loss: [0.0099], corr loss: [0.8303], bi loss: [0.2805], bd loss: [0.0434], segmentation loss: 0.4152, mIou: 0.1955, Acc: 0.9195, Eta: 3:53:53
+
+2025-06-22 16:58:16,160 - Timer - INFO - ep: [48/100], learning rate: 0.000557, time consuming: 343.26s, segmentation loss: 0.7038, fusion loss: 2.5439, vi rec loss: 0.4312, ir rec loss: 0.1518
+2025-06-22 16:58:16,160 - Timer - INFO - grad loss: [0.1356], int loss: [0.0262], corr loss: [0.9253], bi loss: [0.3635], bd loss: [0.0756], segmentation loss: 0.7038, mIou: 0.2038, Acc: 0.9210, Eta: 3:50:53
+
+2025-06-22 17:08:24,995 - Timer - INFO - ep: [49/100], learning rate: 0.000547, time consuming: 608.83s, segmentation loss: 0.5524, fusion loss: 2.1691, vi rec loss: 0.3139, ir rec loss: 0.2081
+2025-06-22 17:08:25,009 - Timer - INFO - grad loss: [0.1190], int loss: [0.0239], corr loss: [0.7408], bi loss: [0.2727], bd loss: [0.0492], segmentation loss: 0.5524, mIou: 0.2086, Acc: 0.9204, Eta: 3:52:23
+
+2025-06-22 17:18:50,592 - Timer - INFO - ep: [50/100], learning rate: 0.000538, time consuming: 625.58s, segmentation loss: 0.6169, fusion loss: 1.3852, vi rec loss: 0.1171, ir rec loss: 0.2320
+2025-06-22 17:18:50,592 - Timer - INFO - grad loss: [0.0607], int loss: [0.0102], corr loss: [0.6766], bi loss: [0.3518], bd loss: [0.0722], segmentation loss: 0.6169, mIou: 0.2051, Acc: 0.9227, Eta: 3:53:42
+
+2025-06-22 17:21:59,811 - Timer - INFO - test mIoU: 0.2380, best mIoU:0.2138
+2025-06-22 17:30:43,695 - Timer - INFO - ep: [51/100], learning rate: 0.000528, time consuming: 713.09s, segmentation loss: 0.9752, fusion loss: 1.8556, vi rec loss: 0.1550, ir rec loss: 0.1526
+2025-06-22 17:30:43,699 - Timer - INFO - grad loss: [0.1056], int loss: [0.0101], corr loss: [0.6986], bi loss: [0.4605], bd loss: [0.1185], segmentation loss: 0.9752, mIou: 0.2120, Acc: 0.9205, Eta: 3:55:57
+
+2025-06-22 17:38:16,069 - Timer - INFO - ep: [52/100], learning rate: 0.000518, time consuming: 452.37s, segmentation loss: 0.6876, fusion loss: 1.7452, vi rec loss: 0.2338, ir rec loss: 0.1787
+2025-06-22 17:38:16,070 - Timer - INFO - grad loss: [0.0857], int loss: [0.0166], corr loss: [0.7218], bi loss: [0.3148], bd loss: [0.0875], segmentation loss: 0.6876, mIou: 0.2140, Acc: 0.9250, Eta: 3:53:39
+
+2025-06-22 17:44:21,557 - Timer - INFO - ep: [53/100], learning rate: 0.000509, time consuming: 365.49s, segmentation loss: 1.0132, fusion loss: 1.6055, vi rec loss: 0.1005, ir rec loss: 0.1616
+2025-06-22 17:44:21,559 - Timer - INFO - grad loss: [0.0830], int loss: [0.0065], corr loss: [0.7098], bi loss: [0.7593], bd loss: [0.1088], segmentation loss: 1.0132, mIou: 0.2134, Acc: 0.9195, Eta: 3:49:52
+
+2025-06-22 17:51:10,580 - Timer - INFO - ep: [54/100], learning rate: 0.000499, time consuming: 409.02s, segmentation loss: 1.2635, fusion loss: 1.3429, vi rec loss: 0.1092, ir rec loss: 0.1146
+2025-06-22 17:51:10,581 - Timer - INFO - grad loss: [0.0643], int loss: [0.0029], corr loss: [0.6717], bi loss: [0.7902], bd loss: [0.1169], segmentation loss: 1.2635, mIou: 0.2196, Acc: 0.9240, Eta: 3:46:37
+
+2025-06-22 17:56:58,393 - Timer - INFO - ep: [55/100], learning rate: 0.000489, time consuming: 347.81s, segmentation loss: 0.3617, fusion loss: 2.1505, vi rec loss: 0.2082, ir rec loss: 0.2238
+2025-06-22 17:56:58,394 - Timer - INFO - grad loss: [0.1313], int loss: [0.0150], corr loss: [0.6871], bi loss: [0.2632], bd loss: [0.0869], segmentation loss: 0.3617, mIou: 0.2153, Acc: 0.9238, Eta: 3:42:24
+
+2025-06-22 18:02:54,834 - Timer - INFO - ep: [56/100], learning rate: 0.000479, time consuming: 356.44s, segmentation loss: 1.5552, fusion loss: 2.7513, vi rec loss: 0.3216, ir rec loss: 0.3684
+2025-06-22 18:02:54,835 - Timer - INFO - grad loss: [0.1280], int loss: [0.0537], corr loss: [0.9343], bi loss: [0.6859], bd loss: [0.0720], segmentation loss: 1.5552, mIou: 0.2198, Acc: 0.9275, Eta: 3:38:15
+
+2025-06-22 18:08:49,584 - Timer - INFO - ep: [57/100], learning rate: 0.000469, time consuming: 354.75s, segmentation loss: 1.3338, fusion loss: 1.8726, vi rec loss: 0.2014, ir rec loss: 0.2139
+2025-06-22 18:08:49,585 - Timer - INFO - grad loss: [0.0844], int loss: [0.0172], corr loss: [0.8568], bi loss: [0.5007], bd loss: [0.1484], segmentation loss: 1.3338, mIou: 0.2187, Acc: 0.9281, Eta: 3:34:00
+
+2025-06-22 18:14:47,717 - Timer - INFO - ep: [58/100], learning rate: 0.000460, time consuming: 358.13s, segmentation loss: 0.9496, fusion loss: 2.4831, vi rec loss: 0.3351, ir rec loss: 0.1925
+2025-06-22 18:14:47,718 - Timer - INFO - grad loss: [0.1528], int loss: [0.0198], corr loss: [0.7570], bi loss: [0.3465], bd loss: [0.0941], segmentation loss: 0.9496, mIou: 0.2215, Acc: 0.9257, Eta: 3:29:44
+
+2025-06-22 18:19:33,121 - Timer - INFO - ep: [59/100], learning rate: 0.000450, time consuming: 285.40s, segmentation loss: 1.8118, fusion loss: 1.4899, vi rec loss: 0.1232, ir rec loss: 0.1063
+2025-06-22 18:19:33,122 - Timer - INFO - grad loss: [0.0776], int loss: [0.0029], corr loss: [0.6846], bi loss: [0.7880], bd loss: [0.1884], segmentation loss: 1.8118, mIou: 0.2247, Acc: 0.9255, Eta: 3:24:35
+
+2025-06-22 18:23:16,249 - Timer - INFO - ep: [60/100], learning rate: 0.000440, time consuming: 223.13s, segmentation loss: 0.5713, fusion loss: 1.3657, vi rec loss: 0.1219, ir rec loss: 0.1174
+2025-06-22 18:23:16,249 - Timer - INFO - grad loss: [0.0650], int loss: [0.0033], corr loss: [0.6832], bi loss: [0.4499], bd loss: [0.0675], segmentation loss: 0.5713, mIou: 0.2325, Acc: 0.9304, Eta: 3:18:45
+
+2025-06-22 18:24:20,508 - Timer - INFO - test mIoU: 0.2481, best mIoU:0.2380
+2025-06-22 18:27:30,985 - Timer - INFO - ep: [61/100], learning rate: 0.000430, time consuming: 254.74s, segmentation loss: 1.1688, fusion loss: 2.1930, vi rec loss: 0.2925, ir rec loss: 0.1186
+2025-06-22 18:27:30,986 - Timer - INFO - grad loss: [0.1030], int loss: [0.0363], corr loss: [0.8000], bi loss: [0.3701], bd loss: [0.1137], segmentation loss: 1.1688, mIou: 0.2327, Acc: 0.9264, Eta: 3:13:19
+
+2025-06-22 18:31:06,400 - Timer - INFO - ep: [62/100], learning rate: 0.000420, time consuming: 215.41s, segmentation loss: 0.4491, fusion loss: 2.1379, vi rec loss: 0.4362, ir rec loss: 0.2188
+2025-06-22 18:31:06,400 - Timer - INFO - grad loss: [0.1238], int loss: [0.0212], corr loss: [0.6871], bi loss: [0.3253], bd loss: [0.0487], segmentation loss: 0.4491, mIou: 0.2316, Acc: 0.9286, Eta: 3:07:31
+
+2025-06-22 18:35:54,520 - Timer - INFO - ep: [63/100], learning rate: 0.000410, time consuming: 288.12s, segmentation loss: 0.7678, fusion loss: 2.0526, vi rec loss: 0.3420, ir rec loss: 0.2641
+2025-06-22 18:35:54,521 - Timer - INFO - grad loss: [0.0681], int loss: [0.0265], corr loss: [1.1066], bi loss: [0.3483], bd loss: [0.0662], segmentation loss: 0.7678, mIou: 0.2257, Acc: 0.9251, Eta: 3:02:30
+
+2025-06-22 18:41:40,353 - Timer - INFO - ep: [64/100], learning rate: 0.000400, time consuming: 345.83s, segmentation loss: 0.4272, fusion loss: 1.7284, vi rec loss: 0.1098, ir rec loss: 0.1472
+2025-06-22 18:41:40,353 - Timer - INFO - grad loss: [0.0842], int loss: [0.0048], corr loss: [0.8384], bi loss: [0.4669], bd loss: [0.0948], segmentation loss: 0.4272, mIou: 0.2423, Acc: 0.9279, Eta: 2:58:02
+
+2025-06-22 18:47:21,822 - Timer - INFO - ep: [65/100], learning rate: 0.000390, time consuming: 341.47s, segmentation loss: 1.1192, fusion loss: 1.6056, vi rec loss: 0.2758, ir rec loss: 0.1703
+2025-06-22 18:47:21,822 - Timer - INFO - grad loss: [0.0777], int loss: [0.0092], corr loss: [0.7367], bi loss: [0.2539], bd loss: [0.0939], segmentation loss: 1.1192, mIou: 0.2410, Acc: 0.9297, Eta: 2:53:30
+
+2025-06-22 18:52:28,362 - Timer - INFO - ep: [66/100], learning rate: 0.000380, time consuming: 306.54s, segmentation loss: 0.3958, fusion loss: 1.8166, vi rec loss: 0.1430, ir rec loss: 0.1073
+2025-06-22 18:52:28,362 - Timer - INFO - grad loss: [0.1036], int loss: [0.0113], corr loss: [0.6670], bi loss: [0.4540], bd loss: [0.0816], segmentation loss: 0.3958, mIou: 0.2327, Acc: 0.9308, Eta: 2:48:37
+
+2025-06-22 18:57:11,826 - Timer - INFO - ep: [67/100], learning rate: 0.000370, time consuming: 283.46s, segmentation loss: 0.5800, fusion loss: 1.5581, vi rec loss: 0.2110, ir rec loss: 0.1248
+2025-06-22 18:57:11,826 - Timer - INFO - grad loss: [0.0624], int loss: [0.0096], corr loss: [0.8382], bi loss: [0.3974], bd loss: [0.0708], segmentation loss: 0.5800, mIou: 0.2462, Acc: 0.9302, Eta: 2:43:32
+
+2025-06-22 19:00:11,775 - Timer - INFO - ep: [68/100], learning rate: 0.000360, time consuming: 179.95s, segmentation loss: 0.8808, fusion loss: 1.3990, vi rec loss: 0.1025, ir rec loss: 0.0986
+2025-06-22 19:00:11,777 - Timer - INFO - grad loss: [0.0633], int loss: [0.0068], corr loss: [0.6978], bi loss: [0.3340], bd loss: [0.0647], segmentation loss: 0.8808, mIou: 0.2471, Acc: 0.9306, Eta: 2:37:40
+
+2025-06-22 19:02:46,904 - Timer - INFO - ep: [69/100], learning rate: 0.000350, time consuming: 155.13s, segmentation loss: 0.8327, fusion loss: 1.6642, vi rec loss: 0.1996, ir rec loss: 0.2258
+2025-06-22 19:02:46,904 - Timer - INFO - grad loss: [0.0718], int loss: [0.0108], corr loss: [0.8389], bi loss: [0.3531], bd loss: [0.0717], segmentation loss: 0.8327, mIou: 0.2500, Acc: 0.9312, Eta: 2:31:41
+
+2025-06-22 19:05:21,499 - Timer - INFO - ep: [70/100], learning rate: 0.000340, time consuming: 154.60s, segmentation loss: 0.5192, fusion loss: 1.7515, vi rec loss: 0.2831, ir rec loss: 0.1721
+2025-06-22 19:05:21,499 - Timer - INFO - grad loss: [0.0855], int loss: [0.0106], corr loss: [0.7907], bi loss: [0.3403], bd loss: [0.0791], segmentation loss: 0.5192, mIou: 0.2495, Acc: 0.9347, Eta: 2:25:48
+
+2025-06-22 19:06:13,812 - Timer - INFO - test mIoU: 0.2452, best mIoU:0.2481
+2025-06-22 19:08:45,962 - Timer - INFO - ep: [71/100], learning rate: 0.000329, time consuming: 204.46s, segmentation loss: 0.9354, fusion loss: 2.2435, vi rec loss: 0.2892, ir rec loss: 0.1251
+2025-06-22 19:08:45,962 - Timer - INFO - grad loss: [0.1056], int loss: [0.0364], corr loss: [0.8237], bi loss: [0.2896], bd loss: [0.1072], segmentation loss: 0.9354, mIou: 0.2545, Acc: 0.9323, Eta: 2:20:20
+
+2025-06-22 19:12:49,768 - Timer - INFO - ep: [72/100], learning rate: 0.000319, time consuming: 243.80s, segmentation loss: 0.8505, fusion loss: 1.5538, vi rec loss: 0.1997, ir rec loss: 0.1121
+2025-06-22 19:12:49,770 - Timer - INFO - grad loss: [0.0792], int loss: [0.0052], corr loss: [0.7102], bi loss: [0.4151], bd loss: [0.1369], segmentation loss: 0.8505, mIou: 0.2463, Acc: 0.9332, Eta: 2:15:12
+
+2025-06-22 19:15:30,051 - Timer - INFO - ep: [73/100], learning rate: 0.000309, time consuming: 160.28s, segmentation loss: 1.6070, fusion loss: 1.9597, vi rec loss: 0.2764, ir rec loss: 0.1893
+2025-06-22 19:15:30,052 - Timer - INFO - grad loss: [0.0932], int loss: [0.0261], corr loss: [0.7664], bi loss: [0.3734], bd loss: [0.0970], segmentation loss: 1.6070, mIou: 0.2560, Acc: 0.9331, Eta: 2:09:34
+
+2025-06-22 19:18:12,979 - Timer - INFO - ep: [74/100], learning rate: 0.000298, time consuming: 162.93s, segmentation loss: 0.4137, fusion loss: 1.6105, vi rec loss: 0.1129, ir rec loss: 0.2097
+2025-06-22 19:18:12,980 - Timer - INFO - grad loss: [0.0906], int loss: [0.0048], corr loss: [0.6565], bi loss: [0.5532], bd loss: [0.0789], segmentation loss: 0.4137, mIou: 0.2570, Acc: 0.9340, Eta: 2:04:02
+
+2025-06-22 19:21:02,302 - Timer - INFO - ep: [75/100], learning rate: 0.000288, time consuming: 169.32s, segmentation loss: 0.8648, fusion loss: 1.8654, vi rec loss: 0.1085, ir rec loss: 0.1180
+2025-06-22 19:21:02,303 - Timer - INFO - grad loss: [0.0794], int loss: [0.0286], corr loss: [0.7859], bi loss: [0.9518], bd loss: [0.1283], segmentation loss: 0.8648, mIou: 0.2539, Acc: 0.9335, Eta: 1:58:37
+
+2025-06-22 19:23:51,709 - Timer - INFO - ep: [76/100], learning rate: 0.000278, time consuming: 169.41s, segmentation loss: 0.8382, fusion loss: 1.3607, vi rec loss: 0.1334, ir rec loss: 0.1562
+2025-06-22 19:23:51,710 - Timer - INFO - grad loss: [0.0590], int loss: [0.0081], corr loss: [0.6900], bi loss: [0.3022], bd loss: [0.1485], segmentation loss: 0.8382, mIou: 0.2584, Acc: 0.9370, Eta: 1:53:16
+
+2025-06-22 19:26:38,634 - Timer - INFO - ep: [77/100], learning rate: 0.000267, time consuming: 166.92s, segmentation loss: 1.1632, fusion loss: 2.3600, vi rec loss: 0.3513, ir rec loss: 0.2699
+2025-06-22 19:26:38,634 - Timer - INFO - grad loss: [0.1173], int loss: [0.0343], corr loss: [0.8444], bi loss: [0.2995], bd loss: [0.1327], segmentation loss: 1.1632, mIou: 0.2555, Acc: 0.9357, Eta: 1:47:58
+
+2025-06-22 19:29:26,620 - Timer - INFO - ep: [78/100], learning rate: 0.000257, time consuming: 167.98s, segmentation loss: 0.8403, fusion loss: 2.0264, vi rec loss: 0.1702, ir rec loss: 0.5593
+2025-06-22 19:29:26,620 - Timer - INFO - grad loss: [0.1096], int loss: [0.0106], corr loss: [0.8244], bi loss: [0.7761], bd loss: [0.2889], segmentation loss: 0.8403, mIou: 0.2655, Acc: 0.9351, Eta: 1:42:44
+
+2025-06-22 19:32:13,714 - Timer - INFO - ep: [79/100], learning rate: 0.000246, time consuming: 167.09s, segmentation loss: 1.7731, fusion loss: 1.2737, vi rec loss: 0.0876, ir rec loss: 0.2330
+2025-06-22 19:32:13,715 - Timer - INFO - grad loss: [0.0490], int loss: [0.0058], corr loss: [0.7261], bi loss: [0.7411], bd loss: [0.1305], segmentation loss: 1.7731, mIou: 0.2721, Acc: 0.9387, Eta: 1:37:34
+
+2025-06-22 19:34:57,258 - Timer - INFO - ep: [80/100], learning rate: 0.000236, time consuming: 163.54s, segmentation loss: 0.7854, fusion loss: 1.6534, vi rec loss: 0.1456, ir rec loss: 0.2232
+2025-06-22 19:34:57,260 - Timer - INFO - grad loss: [0.0796], int loss: [0.0056], corr loss: [0.8010], bi loss: [0.5118], bd loss: [0.1145], segmentation loss: 0.7854, mIou: 0.2677, Acc: 0.9387, Eta: 1:32:26
+
+2025-06-22 19:35:54,717 - Timer - INFO - test mIoU: 0.2938, best mIoU:0.2481
+2025-06-22 19:38:40,228 - Timer - INFO - ep: [81/100], learning rate: 0.000225, time consuming: 222.97s, segmentation loss: 0.7025, fusion loss: 1.3418, vi rec loss: 0.1267, ir rec loss: 0.1463
+2025-06-22 19:38:40,228 - Timer - INFO - grad loss: [0.0626], int loss: [0.0049], corr loss: [0.6665], bi loss: [0.2431], bd loss: [0.0758], segmentation loss: 0.7025, mIou: 0.2715, Acc: 0.9364, Eta: 1:27:36
+
+2025-06-22 19:41:22,799 - Timer - INFO - ep: [82/100], learning rate: 0.000214, time consuming: 162.57s, segmentation loss: 1.5658, fusion loss: 1.7393, vi rec loss: 0.1598, ir rec loss: 0.1278
+2025-06-22 19:41:22,800 - Timer - INFO - grad loss: [0.0733], int loss: [0.0314], corr loss: [0.6916], bi loss: [0.6397], bd loss: [0.1312], segmentation loss: 1.5658, mIou: 0.2745, Acc: 0.9377, Eta: 1:22:34
+
+2025-06-22 19:44:09,774 - Timer - INFO - ep: [83/100], learning rate: 0.000204, time consuming: 166.97s, segmentation loss: 1.0273, fusion loss: 2.1644, vi rec loss: 0.1672, ir rec loss: 0.2040
+2025-06-22 19:44:09,774 - Timer - INFO - grad loss: [0.1012], int loss: [0.0097], corr loss: [1.0556], bi loss: [0.3484], bd loss: [0.0589], segmentation loss: 1.0273, mIou: 0.2743, Acc: 0.9387, Eta: 1:17:37
+
+2025-06-22 19:46:58,661 - Timer - INFO - ep: [84/100], learning rate: 0.000193, time consuming: 168.89s, segmentation loss: 0.7535, fusion loss: 1.6436, vi rec loss: 0.3516, ir rec loss: 0.2102
+2025-06-22 19:46:58,661 - Timer - INFO - grad loss: [0.0802], int loss: [0.0109], corr loss: [0.7327], bi loss: [0.3044], bd loss: [0.0611], segmentation loss: 0.7535, mIou: 0.2856, Acc: 0.9407, Eta: 1:12:43
+
+2025-06-22 19:49:45,708 - Timer - INFO - ep: [85/100], learning rate: 0.000182, time consuming: 167.05s, segmentation loss: 0.4367, fusion loss: 1.5642, vi rec loss: 0.0981, ir rec loss: 0.1572
+2025-06-22 19:49:45,709 - Timer - INFO - grad loss: [0.0661], int loss: [0.0032], corr loss: [0.8705], bi loss: [0.5170], bd loss: [0.1018], segmentation loss: 0.4367, mIou: 0.2818, Acc: 0.9410, Eta: 1:07:52
+
+2025-06-22 19:52:36,577 - Timer - INFO - ep: [86/100], learning rate: 0.000171, time consuming: 170.87s, segmentation loss: 1.7247, fusion loss: 1.9648, vi rec loss: 0.1791, ir rec loss: 0.1306
+2025-06-22 19:52:36,578 - Timer - INFO - grad loss: [0.0930], int loss: [0.0363], corr loss: [0.6720], bi loss: [0.3547], bd loss: [0.1286], segmentation loss: 1.7247, mIou: 0.2892, Acc: 0.9428, Eta: 1:03:04
+
+2025-06-22 19:55:22,908 - Timer - INFO - ep: [87/100], learning rate: 0.000160, time consuming: 166.33s, segmentation loss: 0.5320, fusion loss: 1.5476, vi rec loss: 0.1139, ir rec loss: 0.1774
+2025-06-22 19:55:22,908 - Timer - INFO - grad loss: [0.0686], int loss: [0.0072], corr loss: [0.7904], bi loss: [0.1760], bd loss: [0.0425], segmentation loss: 0.5320, mIou: 0.2796, Acc: 0.9428, Eta: 0:58:18
+
+2025-06-22 19:58:09,696 - Timer - INFO - ep: [88/100], learning rate: 0.000149, time consuming: 166.79s, segmentation loss: 0.8008, fusion loss: 1.9942, vi rec loss: 0.1308, ir rec loss: 0.1884
+2025-06-22 19:58:09,697 - Timer - INFO - grad loss: [0.0990], int loss: [0.0191], corr loss: [0.8130], bi loss: [0.2733], bd loss: [0.1085], segmentation loss: 0.8008, mIou: 0.2914, Acc: 0.9418, Eta: 0:53:35
+
+2025-06-22 20:01:07,231 - Timer - INFO - ep: [89/100], learning rate: 0.000138, time consuming: 177.53s, segmentation loss: 1.7535, fusion loss: 1.8520, vi rec loss: 0.2381, ir rec loss: 0.1160
+2025-06-22 20:01:07,231 - Timer - INFO - grad loss: [0.0930], int loss: [0.0147], corr loss: [0.7751], bi loss: [2.9062], bd loss: [0.0775], segmentation loss: 1.7535, mIou: 0.2915, Acc: 0.9447, Eta: 0:48:56
+
+2025-06-22 20:04:08,806 - Timer - INFO - ep: [90/100], learning rate: 0.000126, time consuming: 181.57s, segmentation loss: 0.7688, fusion loss: 1.3513, vi rec loss: 0.1349, ir rec loss: 0.1610
+2025-06-22 20:04:08,806 - Timer - INFO - grad loss: [0.0583], int loss: [0.0056], corr loss: [0.7121], bi loss: [0.3609], bd loss: [0.1055], segmentation loss: 0.7688, mIou: 0.2923, Acc: 0.9463, Eta: 0:44:19
+
+2025-06-22 20:05:14,427 - Timer - INFO - test mIoU: 0.3225, best mIoU:0.2938
+2025-06-22 20:08:08,996 - Timer - INFO - ep: [91/100], learning rate: 0.000115, time consuming: 240.19s, segmentation loss: 0.6099, fusion loss: 1.9315, vi rec loss: 0.2035, ir rec loss: 0.1126
+2025-06-22 20:08:08,997 - Timer - INFO - grad loss: [0.0938], int loss: [0.0252], corr loss: [0.7416], bi loss: [0.3248], bd loss: [0.0792], segmentation loss: 0.6099, mIou: 0.2929, Acc: 0.9464, Eta: 0:39:51
+
+2025-06-22 20:11:06,133 - Timer - INFO - ep: [92/100], learning rate: 0.000103, time consuming: 177.14s, segmentation loss: 0.5657, fusion loss: 2.0428, vi rec loss: 0.2833, ir rec loss: 0.2309
+2025-06-22 20:11:06,133 - Timer - INFO - grad loss: [0.1261], int loss: [0.0084], corr loss: [0.6974], bi loss: [0.3759], bd loss: [0.0846], segmentation loss: 0.5657, mIou: 0.2980, Acc: 0.9445, Eta: 0:35:17
+
+2025-06-22 20:14:19,850 - Timer - INFO - ep: [93/100], learning rate: 0.000092, time consuming: 193.72s, segmentation loss: 1.9688, fusion loss: 2.0833, vi rec loss: 0.2441, ir rec loss: 0.1310
+2025-06-22 20:14:19,851 - Timer - INFO - grad loss: [0.0816], int loss: [0.0390], corr loss: [0.8775], bi loss: [1.0262], bd loss: [0.2135], segmentation loss: 1.9688, mIou: 0.2980, Acc: 0.9434, Eta: 0:30:47
+
+2025-06-22 20:17:46,203 - Timer - INFO - ep: [94/100], learning rate: 0.000080, time consuming: 206.35s, segmentation loss: 0.4498, fusion loss: 1.9521, vi rec loss: 0.2390, ir rec loss: 0.1352
+2025-06-22 20:17:46,203 - Timer - INFO - grad loss: [0.1162], int loss: [0.0050], corr loss: [0.7405], bi loss: [0.2721], bd loss: [0.0406], segmentation loss: 0.4498, mIou: 0.3096, Acc: 0.9469, Eta: 0:26:19
+
+2025-06-22 20:21:12,946 - Timer - INFO - ep: [95/100], learning rate: 0.000068, time consuming: 206.74s, segmentation loss: 0.8470, fusion loss: 1.6906, vi rec loss: 0.1158, ir rec loss: 0.3485
+2025-06-22 20:21:12,946 - Timer - INFO - grad loss: [0.0843], int loss: [0.0074], corr loss: [0.7734], bi loss: [0.3903], bd loss: [0.1252], segmentation loss: 0.8470, mIou: 0.3191, Acc: 0.9466, Eta: 0:21:53
+
+2025-06-22 20:24:36,329 - Timer - INFO - ep: [96/100], learning rate: 0.000055, time consuming: 203.38s, segmentation loss: 0.4238, fusion loss: 2.0652, vi rec loss: 0.2141, ir rec loss: 0.1896
+2025-06-22 20:24:36,329 - Timer - INFO - grad loss: [0.0933], int loss: [0.0329], corr loss: [0.8026], bi loss: [0.4308], bd loss: [0.1377], segmentation loss: 0.4238, mIou: 0.3176, Acc: 0.9470, Eta: 0:17:28
+
+2025-06-22 20:28:04,185 - Timer - INFO - ep: [97/100], learning rate: 0.000043, time consuming: 207.86s, segmentation loss: 0.6317, fusion loss: 2.0483, vi rec loss: 0.3060, ir rec loss: 0.2063
+2025-06-22 20:28:04,185 - Timer - INFO - grad loss: [0.1159], int loss: [0.0138], corr loss: [0.7510], bi loss: [0.3164], bd loss: [0.0862], segmentation loss: 0.6317, mIou: 0.3206, Acc: 0.9467, Eta: 0:13:04
+
+2025-06-22 20:31:12,601 - Timer - INFO - ep: [98/100], learning rate: 0.000030, time consuming: 188.42s, segmentation loss: 0.9778, fusion loss: 1.3800, vi rec loss: 0.0920, ir rec loss: 0.2013
+2025-06-22 20:31:12,601 - Timer - INFO - grad loss: [0.0526], int loss: [0.0112], corr loss: [0.7422], bi loss: [0.3641], bd loss: [0.0990], segmentation loss: 0.9778, mIou: 0.3177, Acc: 0.9486, Eta: 0:08:41
+
+2025-06-22 20:34:43,004 - Timer - INFO - ep: [99/100], learning rate: 0.000016, time consuming: 210.40s, segmentation loss: 0.8415, fusion loss: 2.2121, vi rec loss: 0.3285, ir rec loss: 0.7149
+2025-06-22 20:34:43,004 - Timer - INFO - grad loss: [0.1423], int loss: [0.0115], corr loss: [0.6735], bi loss: [0.4413], bd loss: [0.0901], segmentation loss: 0.8415, mIou: 0.3277, Acc: 0.9496, Eta: 0:04:19
+
+2025-06-22 20:38:01,123 - Timer - INFO - ep: [100/100], learning rate: 0.000000, time consuming: 198.12s, segmentation loss: 1.0130, fusion loss: 1.7308, vi rec loss: 0.0923, ir rec loss: 0.1243
+2025-06-22 20:38:01,123 - Timer - INFO - grad loss: [0.0778], int loss: [0.0109], corr loss: [0.8436], bi loss: [0.2702], bd loss: [0.1171], segmentation loss: 1.0130, mIou: 0.3206, Acc: 0.9505, Eta: 0:00:00
+
+2025-06-22 20:39:25,687 - Timer - INFO - test mIoU: 0.3332, best mIoU:0.3225
